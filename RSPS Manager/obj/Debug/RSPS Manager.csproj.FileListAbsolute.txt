@@ -1,0 +1,10 @@
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\bin\Debug\RSPS Manager.exe.config
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\bin\Debug\RSPS Manager.exe
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\bin\Debug\RSPS Manager.pdb
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\obj\Debug\RSPS Manager.csprojAssemblyReference.cache
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\obj\Debug\RSPS_Manager.Properties.Resources.resources
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\obj\Debug\RSPS Manager.csproj.GenerateResource.cache
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\obj\Debug\RSPS Manager.csproj.CoreCompileInputs.cache
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\obj\Debug\RSPS Manager.exe
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\obj\Debug\RSPS Manager.pdb
+C:\Users\gnmso\Source\Repos\RSPS Manager\RSPS Manager\obj\Debug\RSPS_Manager.RSPSBasicInfo.resources
